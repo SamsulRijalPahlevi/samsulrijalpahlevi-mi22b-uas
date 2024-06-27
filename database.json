@@ -1,0 +1,50 @@
+{
+  "products": [
+    {
+      "name": "Honda ADV",
+      "price": "23000000",
+      "category": "AT",
+      "image": "https://www.mpmhondajatim.com/assets/uploads/files/produk_foto/1717570996_2.jpg",
+      "description": "Honda ADV 160 keluaran terbaru 2024 ini mengusung mesin yang memberikan performa tangguh dan efisien.",
+      "id": "1"
+    },
+    {
+      "name": "Honda CBR",
+      "price": "50000000",
+      "category": "MT",
+      "image": "https://www.hondacengkareng.com/wp-content/uploads/2018/11/Honda-CBR150R-Dominator-Matte-Black.png",
+      "description": "Honda CBR150R tersedia dalam pilihan mesin Petrol di Indonesia Sport baru dari Honda hadir dalam 5 varian.",
+      "id": "2"
+    },
+    {
+      "name": "Vario 256",
+      "price": "35000000",
+      "category": "AT",
+      "image": "https://www.hondacengkareng.com/wp-content/uploads/2022/02/New-Honda-Vario-160-ABS-Grande-Matte-White.png",
+      "description": "Honda Vario 160 2024 tersedia dalam rentang harga Rp 26,64 - 29,51 Juta di Indonesia. Terdapat 2 varian di Indonesia. ",
+      "id": "3"
+    },
+    {
+      "name": "Supra GTR 150",
+      "price": "13000000",
+      "category": "MT",
+      "image": "https://www.hondacengkareng.com/wp-content/uploads/2018/11/Honda-Supra-GTR-150-Exclusive-Matte-Silver.jpg",
+      "description": "Supra GTR 150 Mesin satu silinder ini telah mengadopsi teknologi DOHC dan pendingin cairan.",
+      "id": "4"
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "name": "AT"
+    },
+    {
+      "id": "2",
+      "name": "MT"
+    },
+    {
+      "id": "3",
+      "name": "Listrik"
+    }
+  ]
+}
